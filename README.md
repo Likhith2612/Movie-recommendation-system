@@ -30,11 +30,11 @@ Based on Netfilx dataset (from Kaggle)
    - Outputs recommended movies along with brief descriptions.
 9. **Predication example:**
     
-Enter your preferred country: India
-Enter your preferred movie genre: TV shows
-Enter your preferred movie duration: seasons
-Enter your preferred release year: 2021
-  """                      Recommended movies for Kota Factory:
+1. Enter your preferred country: India
+2. Enter your preferred movie genre: TV shows
+3. Enter your preferred movie duration: seasons
+4. Enter your preferred release year: 2021
+                         Recommended movies for Kota Factory:
                         - Little Things
                         - Hometown Cha-Cha-Cha
                         - I Need Romance
@@ -55,4 +55,4 @@ Enter your preferred release year: 2021
                         - The Parisian Agency: Exclusive Properties
                         - Don't be the First one
                         - Ainori Love Wagon: Asian Journey
-                        - Blown Away        """
+                        - Blown Away   
