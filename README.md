@@ -1,4 +1,5 @@
-This Python code snippet demonstrates a movie recommendation system implemented in Google Colab using the Netflix dataset. The code performs the following tasks:
+**Movie Recommendation System**
+Based on Netfilx dataset (from Kaggle)
 
 1. **Importing Dataset:**
    - Reads the Netflix dataset from a CSV file into a Pandas DataFrame.
@@ -27,5 +28,31 @@ This Python code snippet demonstrates a movie recommendation system implemented 
    - Filters the dataset based on user preferences.
    - If no exact matches are found, it recommends similar movies based on genre using cosine similarity.
    - Outputs recommended movies along with brief descriptions.
-
-This code leverages machine learning concepts such as TF-IDF vectorization and cosine similarity to provide personalized movie recommendations based on user input preferences. The recommendation system is flexible and can adapt to partial matches in user input criteria. It also accounts for scenarios where no exact matches are found, providing alternative recommendations based on genre similarities.
+9. **Predication example:**
+    
+Enter your preferred country: India
+Enter your preferred movie genre: TV shows
+Enter your preferred movie duration: seasons
+Enter your preferred release year: 2021
+Recommended movies for Kota Factory:
+- Little Things
+- Hometown Cha-Cha-Cha
+- I Need Romance
+- Feels Like Ishq
+- Generation 56k
+- Let's Eat
+- Mad for Each Other
+- Use For My Talent
+- Club Friday The Series 8
+- Beauty and the Bitches
+Recommended movies for The Big Day:
+- Too Hot To Handle: Latino
+- Too Hot to Handle: Brazil
+- Too Hot to Handle
+- The Wedding Coach
+- Marriage or Mortgage
+- Motel Makeover
+- The Parisian Agency: Exclusive Properties
+- Don't be the First one
+- Ainori Love Wagon: Asian Journey
+- Blown Away
