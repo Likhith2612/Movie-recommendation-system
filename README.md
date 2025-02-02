@@ -29,30 +29,30 @@ Based on Netfilx dataset (from Kaggle)
    - If no exact matches are found, it recommends similar movies based on genre using cosine similarity.
    - Outputs recommended movies along with brief descriptions.
 9. **Predication example:**
-    
-1. Enter your preferred country: India
-2. Enter your preferred movie genre: TV shows
-3. Enter your preferred movie duration: seasons
-4. Enter your preferred release year: 2021
-                         Recommended movies for Kota Factory:
-                        - Little Things
-                        - Hometown Cha-Cha-Cha
-                        - I Need Romance
-                        - Feels Like Ishq
-                        - Generation 56k
-                        - Let's Eat
-                        - Mad for Each Other
-                        - Use For My Talent
-                        - Club Friday The Series 8
-                        - Beauty and the Bitches
-                        Recommended movies for The Big Day:
-                        - Too Hot To Handle: Latino
-                        - Too Hot to Handle: Brazil
-                        - Too Hot to Handle
-                        - The Wedding Coach
-                        - Marriage or Mortgage
-                        - Motel Makeover
-                        - The Parisian Agency: Exclusive Properties
-                        - Don't be the First one
-                        - Ainori Love Wagon: Asian Journey
-                        - Blown Away   
+
+10. Enter your preferred country: India
+Enter your preferred movie genre: TV shows
+Enter your preferred movie duration: seasons
+Enter your preferred release year: 2021
+Recommended movies for Kota Factory:
+- Little Things
+- Hometown Cha-Cha-Cha
+- I Need Romance
+- Feels Like Ishq
+- Generation 56k
+- Let's Eat
+- Mad for Each Other
+- Use For My Talent
+- Club Friday The Series 8
+- Beauty and the Bitches
+Recommended movies for The Big Day:
+- Too Hot To Handle: Latino
+- Too Hot to Handle: Brazil
+- Too Hot to Handle
+- The Wedding Coach
+- Marriage or Mortgage
+- Motel Makeover
+- The Parisian Agency: Exclusive Properties
+- Don't be the First one
+- Ainori Love Wagon: Asian Journey
+- Blown Away
